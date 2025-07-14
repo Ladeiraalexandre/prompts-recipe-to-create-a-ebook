@@ -8,7 +8,7 @@
 
 <p align="center">
 <img 
-    src="./assets/banner1.jpg"
+    src="./assets/banner1.JPG"
     width="400"  
 />
 </p>
