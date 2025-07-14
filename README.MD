@@ -1,6 +1,3 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
 
 
 <p align="center">
@@ -9,23 +6,23 @@
 
 -------
 
-
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/banner1.jpg"
     width="400"  
 />
 </p>
 
+
+
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante o bootCamp: TONNIE - Java and AI in Europe, na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Ladeiraalexandre/prompts-recipe-to-create-a-ebook/tree/main/output/ebook_nginx.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -38,17 +35,17 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|   Ação   | prompt                                                       |
+| :------: | ------------------------------------------------------------ |
+|  título  | Crie um titulo para um ebook sobre o tema de NGINX, o ebook é do nicho de programação e o subnicho é de web, o titulo deve ser épico e curto, e combinando a temática de **infraestrutura, tecnologia e resiliência** com um visual inspirador ao estilo de super-heróis, me liste 5 variações de titulos. |
+| conteúdo | Faça um texto para ebook, com foco no NGINX e, que seja útil tanto para iniciantes quanto para quem quer avançar no uso do NGINX. Explique sempre de uma maneira simples. Deixe o texto enxuto, sempre traga exemplos de código em contextos reais e sempre deixe um título sugestivo por tópico. |
 
 
 Midjourney：
 
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  Ação  | prompt                                                       |
+| :----: | ------------------------------------------------------------ |
+| título | Futuristic server room glowing in green, symbolizing NGINX. A heroic architect stands at the center with a code-shaped shield, on a circuit-board platform. Behind him, glowing data streams flow through skyscrapers made of server racks, under a cyber sky. Style: cinematic, tech, Marvel hero poster, dramatic lighting. |
 
 ## ✨ Features
 
@@ -58,35 +55,34 @@ Midjourney：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado em `output`
+- arquivos para uso do exemplo prático contido no ebook em `laboratorio`
 
-## 🛠️ Instruções de execução
+## 🛠️ Instruções para execução do laboratório
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os arquivos contidos na pasta laboratorio para seguir o passo a passo contido no ebook e executar localmente o exemplo prático e assim aumentar a experiência da leitura realizada.
 
-## 👨‍💻 Expert
+## 
 
 <p>
     <img 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/25528479?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspAlexandre Ladeira<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+    <a href="https://github.com/ladeiraalexandre">
+    GitHub</a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/alexandreladeirasilva/">LinkedIn</a>
+&nbsp;&nbsp;
+    &nbsp;&nbsp;</p>
 </p>
-<br/><br/>
-<p>
+
+
+
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+por [Alexandre Ladeira Silva](https://github.com/ladeiraalexandre)
